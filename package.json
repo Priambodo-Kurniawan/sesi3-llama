@@ -1,0 +1,17 @@
+{
+    "name": "sesi-3",
+    "type": "module",
+    "scripts": {
+        "dev": "node --watch ./index.js"
+    },
+    "dependencies": {
+        "@hono/node-server": "^1.12.1",
+        "dotenv": "^16.4.5",
+        "hono": "^4.5.8",
+        "marked": "^14.0.0"
+    },
+    "devDependencies": {
+        "@types/node": "^20.11.17",
+        "tsx": "^4.7.1"
+    }
+}
